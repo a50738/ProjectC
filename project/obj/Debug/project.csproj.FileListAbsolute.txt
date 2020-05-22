@@ -1,0 +1,12 @@
+C:\Users\AnnaC\visual\visual 2019\project\project\bin\Debug\project.exe.config
+C:\Users\AnnaC\visual\visual 2019\project\project\bin\Debug\project.exe
+C:\Users\AnnaC\visual\visual 2019\project\project\bin\Debug\project.pdb
+C:\Users\AnnaC\visual\visual 2019\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\AnnaC\visual\visual 2019\project\project\obj\Debug\project.exe
+C:\Users\AnnaC\visual\visual 2019\project\project\obj\Debug\project.pdb
+C:\Users\wojte\Desktop\Nowy folder\project\project\bin\Debug\project.exe.config
+C:\Users\wojte\Desktop\Nowy folder\project\project\bin\Debug\project.exe
+C:\Users\wojte\Desktop\Nowy folder\project\project\bin\Debug\project.pdb
+C:\Users\wojte\Desktop\Nowy folder\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\wojte\Desktop\Nowy folder\project\project\obj\Debug\project.exe
+C:\Users\wojte\Desktop\Nowy folder\project\project\obj\Debug\project.pdb

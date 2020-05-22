@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="project.Car">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAgAGAAAAAAECAAAAAAAAAAAAAAIAAIAAAAAIAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.Office">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAABAAAACAAAAAAEAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Office.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.Payment">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIAAAACAAAAAIAAEAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.WarehouseItem">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="project.WarehouseItem.Order_ready" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WarehouseItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgBAAAAAAAgAAAAAAASAAAAEgCAIAAAAAAAAgAA=</HashCode>
+      <FileName>WarehouseItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.Workshop">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="project.Workshop.order_send" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Workshop.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAAABAAAAAAAAAAAMAAAhAABAAACAAAAAAAAAACAA=</HashCode>
+      <FileName>Workshop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
