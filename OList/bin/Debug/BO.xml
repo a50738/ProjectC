@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BO</name>
+    </assembly>
+    <members>
+        <member name="F:BO.Car.brand">
+            <summary>
+            Variables.
+            <param name="brand">brand name of car</param>
+            <param name="model">model of car</param>
+            <param name="ownerName">car owner name</param>
+            <param name="ownerPhoneNr">owner's phone number</param>
+            <param name="registrationNr">registration number of car</param>
+            <param name="year">car production year</param>
+            </summary>
+        </member>
+        <member name="F:BO.Car.model">
+            <summary>
+            Variables.
+            <param name="brand">brand name of car</param>
+            <param name="model">model of car</param>
+            <param name="ownerName">car owner name</param>
+            <param name="ownerPhoneNr">owner's phone number</param>
+            <param name="registrationNr">registration number of car</param>
+            <param name="year">car production year</param>
+            </summary>
+        </member>
+        <member name="F:BO.Car.ownerName">
+            <summary>
+            Variables.
+            <param name="brand">brand name of car</param>
+            <param name="model">model of car</param>
+            <param name="ownerName">car owner name</param>
+            <param name="ownerPhoneNr">owner's phone number</param>
+            <param name="registrationNr">registration number of car</param>
+            <param name="year">car production year</param>
+            </summary>
+        </member>
+        <member name="M:BO.Car.ToString(BO.Car)">
+            <summary>
+            Displaying atrributes of Car object.
+            </summary>
+            <param name="car"></param>
+            <returns>displaying</returns>
+        </member>
+        <member name="F:BO.Office.payment">
+            <summary>
+            Variables.
+            <param name="payment">object of Payment class</param>
+            <param name="auto">object of Car class</param>
+            <param name="repairNumber">number of repair/order</param>
+            <param name="typeOfRepair">initial description of the repair</param>
+            <param name="repairState">current state of repairing car</param>
+            <param name="date_admission">date of admission of order</param>
+            </summary>
+        </member>
+        <member name="M:BO.Office.GetPayment(BO.Payment)">
+            <summary>
+            Assigning payment value to payment attribute of this class
+            </summary>
+            <param name="pay">payment object created in main</param>
+        </member>
+        <member name="M:BO.Office.ToString(BO.Office)">
+            <summary>
+            Displaying atrributes of Office object.
+            </summary>
+            <param name="office"></param>
+            <returns>displaying</returns>
+        </member>
+        <member name="F:BO.Payment.bill">
+            <summary>
+            Variables.
+            <param name="bill">price of the repair</param>
+            <param name="description">description of the service performed</param>
+            <param name="type">by cash, by card</param>
+            <param name="mechanic">chosen mechanic from mechanic's list</param>
+            <param name="end_repair">date of ending order</param>
+            </summary>
+        </member>
+        <member name="M:BO.Payment.#ctor">
+            <summary>
+            Constuctors.
+            </summary>
+        </member>
+        <member name="M:BO.Payment.ToString(BO.Payment)">
+            <summary>
+            Displaying atrributes of Payment object.
+            </summary>
+            <param name="payment"></param>
+            <returns>displaying</returns>
+        </member>
+        <member name="F:BO.WarehouseItem.name">
+            <summary>
+            Variables.
+            <param name="name">the name of order's part</param>
+            <param name="amount">amount of available part</param>
+            <param name="ryply1">communique</param>
+            <param name="reply2">communique</param>
+            </summary>
+        </member>
+        <member name="E:BO.WarehouseItem.OrderReadyEvent">
+            <summary>
+            Event.
+            </summary>
+        </member>
+        <member name="M:BO.WarehouseItem.ReplyToOrder(System.String)">
+            <summary>
+            Reply on order from Workshop class.
+            Check if the ordered part is on the stock
+            and amount of part is available.
+            </summary>
+            <param name="part">name's part entered by user</param>
+        </member>
+        <member name="M:BO.WarehouseItem.OnOrderReady(System.String)">
+            <summary>
+            The method takes part in event.
+            </summary>
+            <param name="info">communique</param>
+        </member>
+        <member name="M:BO.WarehouseItem.CheckAmount">
+            <summary>
+            Check amount of part.
+            </summary>
+            <returns>available number of part</returns>
+        </member>
+        <member name="T:BO.Order">
+            <summary>
+            Delegate.
+            </summary>
+            <param name="statement">communique</param>
+        </member>
+        <member name="F:BO.Workshop.availablePosition">
+            <summary>
+            Variables.
+            <param name="availablePosition">amount of positions for cars in workshop</param>
+            <param name="mechanicName">list of machanics working in workshop</param>
+            </summary>
+        </member>
+        <member name="E:BO.Workshop.OrderSendEvent">
+            <summary>
+            Event.
+            </summary>
+        </member>
+        <member name="M:BO.Workshop.CheckAvaileblePosition">
+            <summary>
+            Check available position for cars in workshop
+            before "take" the car for repair.
+            </summary>
+            <returns>true, if there is position available.</returns>
+        </member>
+        <member name="M:BO.Workshop.MinusPosition">
+            <summary>
+            After adding car, position decreases.
+            </summary>
+        </member>
+        <member name="M:BO.Workshop.Mechanic(System.String[]@)">
+            <summary>
+            Get the mechanics' names and pass it to main program.
+            </summary>
+            <param name="m">array of mechanics' names</param>
+        </member>
+        <member name="M:BO.Workshop.EndRepair(BO.Office)">
+            <summary>
+            After closing order change the state of car on 'ended'
+            and insert a position.
+            </summary>
+            <param name="office">object of Office class which is changed</param>
+        </member>
+        <member name="M:BO.Workshop.SendOrder(System.String@)">
+            <summary>
+            Ordering the necessary car part in Warehouse.
+            </summary>
+            <param name="part">name's part entered by user</param>
+        </member>
+        <member name="M:BO.Workshop.OnOrderSendEvent(System.String)">
+            <summary>
+            The method takes part in event.
+            </summary>
+            <param name="info">communique</param>
+        </member>
+    </members>
+</doc>

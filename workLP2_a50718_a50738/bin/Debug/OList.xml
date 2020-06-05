@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OList</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "F:OList.OfficeList.orders" -->
+        <!-- Badly formed XML comment ignored for member "M:OList.OfficeList.AddOrderII(BO.Office)" -->
+        <member name="M:OList.OfficeList.Finding">
+            <summary>
+            Find the order number by its RepairState
+            office object o nr ... change state -> aval pos--
+            </summary>
+            <returns>true, if the order with state 'during repair'
+            exists on the list</returns>
+        </member>
+        <member name="M:OList.OfficeList.CheckNumber(System.Int32)">
+            <summary>
+            The order nr selected by user does really exist.
+            </summary>
+            <param name="number">number entered by user</param>
+            <returns>true, if the order exists</returns>
+        </member>
+        <member name="M:OList.OfficeList.SaveAll(System.String)">
+            <summary>
+            Preserve all data.
+            </summary>
+            <param name="fileName">file name from main</param>
+            <returns></returns>
+        </member>
+        <member name="M:OList.OfficeList.LoadAll(System.String)">
+            <summary>
+            Get all preserved data.
+            </summary>
+            <param name="fileName">file name from main</param>
+            <returns></returns>
+        </member>
+        <member name="M:OList.OfficeList.DisplayInfo">
+            <summary>
+            Displaying the order with state 'during repair'.
+            </summary>
+            <returns>true, if the orders exist</returns>
+        </member>
+        <member name="M:OList.OfficeList.Display">
+            <summary>
+            Displaying the whole list.
+            </summary>
+        </member>
+        <member name="M:OList.OfficeList.Display2(BO.Office)">
+            <summary>
+            Displaying the concrete object.
+            </summary>
+            <param name="o">selected object of Office class</param>
+        </member>
+    </members>
+</doc>

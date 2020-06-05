@@ -1,0 +1,12 @@
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\BO\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\BO\bin\Debug\BO.dll
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\BO\bin\Debug\BO.pdb
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\BO\obj\Debug\BO.dll
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\BO\obj\Debug\BO.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\BO\bin\Debug\BO.dll
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\BO\bin\Debug\BO.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\BO\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\BO\obj\Debug\BO.dll
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\BO\obj\Debug\BO.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\BO\bin\Debug\BO.xml

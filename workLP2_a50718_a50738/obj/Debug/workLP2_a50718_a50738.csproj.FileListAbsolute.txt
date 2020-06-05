@@ -1,0 +1,48 @@
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.csprojAssemblyReference.cache
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.exe.config
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.exe
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.pdb
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.exe
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.pdb
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\MainOffice.pdb
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.csproj.CopyComplete
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\MainOffice.dll
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\MainOffice.dll.config
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BR.dll
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\OList.dll
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BR.pdb
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\OList.pdb
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\WorkShop.dll
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\WorkShop.pdb
+C:\Users\AnnaC\visual\visual 2019\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\WorkShop.dll.config
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.csprojAssemblyReference.cache
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.csproj.CoreCompileInputs.cache
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.exe
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.pdb
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.exe.config
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.exe
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.pdb
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BO.dll
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BR.dll
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\OList.dll
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BO.pdb
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BR.pdb
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\OList.pdb
+C:\Users\lufer\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.csproj.CopyComplete
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.csprojAssemblyReference.cache
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.exe
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.exe.config
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.exe
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BO.dll
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BR.dll
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\OList.dll
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BO.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BR.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\OList.pdb
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\obj\Debug\workLP2_a50718_a50738.csproj.CopyComplete
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\workLP2_a50718_a50738.xml
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BO.xml
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\BR.xml
+C:\Users\AnnaC\Desktop\workLP2_a50718_a50738\workLP2_a50718_a50738\bin\Debug\OList.xml

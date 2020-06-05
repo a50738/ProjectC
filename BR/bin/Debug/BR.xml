@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BR</name>
+    </assembly>
+    <members>
+        <member name="M:BR.Rules.InsertOrderII(BO.Office)">
+            <summary>
+            Insert new order.
+            </summary>
+            <param name="o">object of Office class</param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:BR.Rules.Display" -->
+        <member name="M:BR.Rules.Display2(BO.Office)">
+            <summary>
+            Displaying chosen object of Office class.
+            </summary>
+            <param name="o">object for displaying</param>
+        </member>
+        <member name="M:BR.Rules.ChangeState">
+            <summary>
+            Change of state. If the position is available we 
+            change state on 'during repair' and substract one position.
+            </summary>
+            <returns>true, if the process of 'taking' car to workshop succeed</returns>
+        </member>
+        <member name="M:BR.Rules.Get(BO.Office@,BO.Payment)">
+            <summary>
+            After entering payment data we change the 
+            order state from 'during repair' to 'ended' 
+            </summary>
+            <param name="o">Office object</param>
+            <param name="pay">Payment object</param>
+        </member>
+        <member name="M:BR.Rules.Cheking(System.Int32)">
+            <summary>
+            Checking the selected order nr entered by the user
+            </summary>
+            <param name="number"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BR.Rules.Events(BO.Workshop,BO.WarehouseItem,System.String)">
+            <summary>
+            Operating events. Displaing current amount of car part from WarehouseItem.
+            </summary>
+            <param name="workshop">Workshop object</param>
+            <param name="stock">WarehouseItem object</param>
+            <param name="part">the necessary part that name is entered by user</param>
+        </member>
+        <member name="M:BR.Rules.DisplayInformation(System.String)">
+            <summary>
+            Displaying statement(method for delegate).
+            </summary>
+            <param name="info">notification from class</param>
+        </member>
+        <member name="M:BR.Rules.MechanicName(System.String[]@)">
+            <summary>
+            Getting mechanics' name from the Workshop mechanicName array.
+            </summary>
+            <param name="m">stores the mechanics' name</param>
+        </member>
+        <member name="M:BR.Rules.DisplayInfo">
+            <summary>
+            Displaying.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BR.Rules.SaveOrders(System.String)">
+            <summary>
+            Preserve all data.
+            </summary>
+            <param name="fileName">file name from main</param>
+            <returns></returns>
+        </member>
+        <member name="M:BR.Rules.LoadOrders(System.String)">
+            <summary>
+            Get all preserved data.
+            </summary>
+            <param name="fileName">file name from main</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
